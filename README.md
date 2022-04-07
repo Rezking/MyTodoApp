@@ -2,7 +2,7 @@
 TodoApp with Flask and SQLAlchemy
 
 
-#The Requirements
+# The Requirements
 astroid==2.11.2
 click==8.1.1
 colorama==0.4.4
